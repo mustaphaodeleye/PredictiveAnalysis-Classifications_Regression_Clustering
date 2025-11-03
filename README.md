@@ -1,0 +1,5 @@
+Predictive Analysis
+
+Classifications
+Regression
+Clustering
